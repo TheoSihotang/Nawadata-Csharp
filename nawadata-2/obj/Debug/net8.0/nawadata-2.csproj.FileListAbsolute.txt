@@ -12,3 +12,4 @@
 /home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.pdb
 /home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.genruntimeconfig.cache
 /home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/ref/nawadata-2.dll
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.sourcelink.json

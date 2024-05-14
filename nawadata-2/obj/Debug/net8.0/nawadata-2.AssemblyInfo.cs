@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nawadata-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7bf8fe9c9b9ed569d0cbdac01fdd64da318641b")]
 [assembly: System.Reflection.AssemblyProductAttribute("nawadata-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nawadata-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
