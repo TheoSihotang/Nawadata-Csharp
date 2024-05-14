@@ -1,0 +1,14 @@
+/home/theo/RiderProjects/nawadata-2/nawadata-2/bin/Debug/net8.0/nawadata-2
+/home/theo/RiderProjects/nawadata-2/nawadata-2/bin/Debug/net8.0/nawadata-2.deps.json
+/home/theo/RiderProjects/nawadata-2/nawadata-2/bin/Debug/net8.0/nawadata-2.runtimeconfig.json
+/home/theo/RiderProjects/nawadata-2/nawadata-2/bin/Debug/net8.0/nawadata-2.dll
+/home/theo/RiderProjects/nawadata-2/nawadata-2/bin/Debug/net8.0/nawadata-2.pdb
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.AssemblyInfoInputs.cache
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.AssemblyInfo.cs
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.csproj.CoreCompileInputs.cache
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.dll
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/refint/nawadata-2.dll
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.pdb
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/nawadata-2.genruntimeconfig.cache
+/home/theo/RiderProjects/nawadata-2/nawadata-2/obj/Debug/net8.0/ref/nawadata-2.dll
